@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OIC_NN">
+    <output-path>C:/Fiji/Fiji2/plugins</output-path>
+    <root id="archive" name="OIC_NN.jar">
+      <element id="module-output" name="NearestNeigborAnalysis" />
+    </root>
+  </artifact>
+</component>

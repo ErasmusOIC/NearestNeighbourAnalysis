@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4fa45da-54a3-40f0-9f43-449081e22745" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/OIC_NN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ij_1_53t.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NearestNeigborAnalysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neigbours/Nearest_Neighbours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neigbours/coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neigbours/coordinates3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neigbours/pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myClasses/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myClasses/_3dPoint_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myClasses/getPointRois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nearest_edge/near_edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LMXgVJO6cEssDdHQyVaxWsXlQc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/Source/IdeaProjects/NearestNeigborAnalysis/src",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Source\IdeaProjects\NearestNeigborAnalysis\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4fa45da-54a3-40f0-9f43-449081e22745" name="Changes" comment="" />
+      <created>1675682041508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675682041508</updated>
+    </task>
+    <servers />
+  </component>
+</project>
